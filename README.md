@@ -5,3 +5,5 @@ Step 1: Download kaggle dataset: https://www.kaggle.com/datasets/a2015003713/mil
 Step 2: Download "aircraft_cnn_classifier.ipynb" VS code file 
 step 3. Reset filepath to where you saved the dataset
 step 4: Run code
+
+Annotated samples are in the fork created by Isabella Peterson if needed for reference. 
